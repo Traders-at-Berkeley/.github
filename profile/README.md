@@ -4,4 +4,12 @@ Traders at Berkeley is UC Berkeley's Quantitative Finance club. We host the annu
 [traders.berkeley.edu](https://traders.berkeley.edu/)
 
 ## Berkeley Trading Competition
-The Berkeley Trading Compeitition brings together top students from around the world to compete in trading and research games for cash and prizes. All undergraduate and graduate students studying Math, Statistics, Computer Science, Physics, Economics, or other quantitative fields are welcome to apply. The competition is held annually in the spring and applications open around December. For more information and to apply, visit https://traders.berkeley.edu/competition.html
+The Berkeley Trading Compeitition brings together top students from around the world to compete in trading and research games for cash and prizes. All undergraduate and graduate students studying Math, Statistics, Computer Science, Physics, Economics, or other quantitative fields are welcome to apply. The competition is held annually in the spring and applications open around December. For more information and to apply, visit https://traders.berkeley.edu/competition.html.
+
+## STAT 198 Introduction to Quantitative Finance
+Every semester we teach the Introduction to Quantitative Finance DeCal for UC Berkeley students. The course introduces concepts and methods commonly found in the industry and gives an overview of different roles and how to prepare for them. We also bring in guest lecturers from the industry who are able to share their experiences and answer questions. We then guide students to complete a final project which involves testing an open-ended hypothesis with real-world data.
+
+STAT 198 is offered every spring and fall semester with limited seats. Interested students can learn more and apply at [stat198.org](https://stat198.org/). 
+
+## Join Us
+We are looking for Berkeley undergraduate and graduate students with a keen interest in quantitative finance (trading, research, or engineering). Most of our members have a strong quantitative background and major in fields like Computer Science, Statistics, Math, or Physics. Though not a requirement, it is strongly recommended that new members take the STAT 198 DeCal. Most of our recruiting for new members comes from previous students of STAT 198. For more information and to apply to join Traders at Berkeley, visit [traders.berkeley.edu/join](https://traders.berkeley.edu/join.html)
