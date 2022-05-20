@@ -1,3 +1,5 @@
+<p align="center"><a target="_blank" href="https://traders.berkeley.edu/"><img src="logo_with_background.png" alt="Traders at Berkeley Logo"></a></p>
+
 # Traders at Berkeley
 Traders at Berkeley is UC Berkeley's Quantitative Finance club. We host the annual Berkeley Trading Competition and connect students with industry resources and opportunities.
 
